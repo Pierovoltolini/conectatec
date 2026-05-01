@@ -3,7 +3,7 @@
    Lógica pura — sin productos hardcodeados
    =================================== */
 
-const WA_NUMBER = "59894990760";
+const WA_NUMBER = "59892275155";
 const WA_GENERAL_MSG = encodeURIComponent("Hola, estaba navegando en tu web de Conectatec y estoy interesado en tus productos, ¿me podrías ayudar?");
 const WA_BASE_URL = `https://wa.me/${WA_NUMBER}`;
 
