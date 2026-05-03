@@ -2,7 +2,7 @@ const products = [
   {
     id: 1,
     name: "AirPods Pro 2 Símil",
-    price: 1999,
+    price: 1500,
     category: "Apple",
     subcategory: "Auriculares",
     description: "Cancelación de ruido, control de sonido, calidad premium.",
@@ -23,7 +23,7 @@ const products = [
   {
     id: 3,
     name: "Apple Watch Ultra 3 Símil",
-    price: 2490,
+    price: 2000,
     category: "Apple",
     subcategory: "Reloj / Smartwatch",
     description: "Control tiempo/reloj, calorías, pulsaciones, notificaciones y más funciones.",
@@ -42,7 +42,7 @@ const products = [
   {
     id: 4,
     name: "Apple Watch Series 10 Símil",
-    price: 2390,
+    price: 1500,
     category: "Apple",
     subcategory: "Reloj / Smartwatch",
     description: "Control tiempo/reloj, calorías, pulsaciones, notificaciones y más funciones.",
@@ -59,7 +59,7 @@ const products = [
   {
     id: 5,
     name: "Funda Cuero AirPods",
-    price: 590,
+    price: 799,
     category: "Apple",
     subcategory: "Fundas auriculares",
     description: "Funda protectora estilo cuero para AirPods.",
